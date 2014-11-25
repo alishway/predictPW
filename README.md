@@ -1,6 +1,6 @@
-This is a shiny application for developing data product's course project
+<h1>This is a shiny application for developing data product's course project</h1>
 
-What does it do?
+<h2>What does it do?</h2>
 Predicts the Iris flower pedal width, using sepal width and length, plus the pedal length.
 
 What is iris flower data about?
