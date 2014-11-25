@@ -21,3 +21,7 @@ To predict petal width, this shiny application requires the user to select 3 att
 <h2>How to install and run?</h2>
 
 You can download both server.R and ui.R files and then place them all in the same folder. Name the folder, i.e. PredictPW. Then open an R session, change your working directory to the home directory of "predictPW" folder" and then type runApp(‘PredictPW’). 
+
+You can view the application by clicking <a href="https://alishway.shinyapps.io/predictPW/">predictPW</> or go to the following link:
+https://alishway.shinyapps.io/predictPW/
+
